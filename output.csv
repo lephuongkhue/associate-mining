@@ -1,0 +1,398 @@
+,Dominant1,Dominant2,Dominant3
+0,White,Firebrick,Maroon
+1,Dark Olive Green,White,Dim Gray
+2,Dodger Blue,White,Sandy Brown
+3,Dark Slate Blue,Slate Gray,Sienna
+4,White,Black,Dark Salmon
+5,Medium Purple,White,Black
+6,Thistle,Gainsboro,Web Gray
+7,Midnight Blue,Dark Slate Blue,White
+8,Dark Slate Gray,Light Slate Gray,Ivory
+9,Ivory,Tomato,Medium Aquamarine
+10,Slate Gray,Dark Orange,Slate Gray
+11,Web Maroon,Web Gray,Sienna
+12,White,Dark Olive Green,Beige
+13,Web Gray,Black,White
+14,Snow,Black,Dark Gray
+15,Light Sky Blue,Navy Blue,Navy Blue
+16,Black,Crimson,Slate Gray
+17,Alice Blue,Royal Blue,Slate Gray
+18,Pale Violet Red,Steel Blue,White
+19,Gainsboro,Black,Web Gray
+20,White,Black,Dodger Blue
+21,Dark Slate Blue,Orange,Maroon
+22,Dark Slate Gray,Old Lace,Tan
+23,Midnight Blue,Lavender,Dark Slate Blue
+24,Medium Blue,White,Black
+25,Dark Goldenrod,Web Maroon,Saddle Brown
+26,Dim Gray,White,Dark Gray
+27,Teal,Dark Khaki,White
+28,Midnight Blue,Maroon,Gray
+29,White,Midnight Blue,Olive Drab
+30,Dark Slate Gray,Alice Blue,Light Salmon
+31,Alice Blue,Dark Slate Blue,Black
+32,Thistle,Dim Gray,Web Maroon
+33,Slate Gray,Light Slate Gray,Misty Rose
+34,Alice Blue,Royal Blue,Orchid
+35,Black,Light Gray,Dim Gray
+36,Floral White,Dark Slate Gray,Tan
+37,Dark Slate Blue,Midnight Blue,Steel Blue
+38,Alice Blue,Light Sea Green,Midnight Blue
+39,Tomato,Black,White
+40,Linen,Slate Gray,Web Gray
+41,White Smoke,Black,Salmon
+42,White,Medium Spring Green,Pale Violet Red
+43,Black,Dark Gray,Sienna
+44,Ghost White,Black,Orange
+45,Midnight Blue,Crimson,Slate Gray
+46,Slate Gray,White,Dark Gray
+47,White,Pink,Pale Violet Red
+48,Lavender,Midnight Blue,Slate Gray
+49,White Smoke,Black,Dim Gray
+50,White,Midnight Blue,Dodger Blue
+51,Steel Blue,Brown,Light Sky Blue
+52,Lavender,Slate Gray,Forest Green
+53,Black,Dim Gray,Peach Puff
+54,Slate Gray,Goldenrod,Light Steel Blue
+55,White,Black,Dark Sea Green
+56,Ghost White,Dark Slate Gray,Dark Gray
+57,White Smoke,Dark Slate Gray,Dark Gray
+58,Ghost White,Dark Slate Blue,Slate Gray
+59,Ghost White,Dark Slate Blue,Maroon
+60,Dark Slate Blue,Lavender,Pale Violet Red
+61,Dark Slate Gray,Maroon,White
+62,Lavender,Dodger Blue,Slate Gray
+63,Black,White,Forest Green
+64,Lavender,Slate Gray,Thistle
+65,Light Salmon,White,Rebecca Purple
+66,White,Dark Slate Blue,Midnight Blue
+67,Black,Dark Olive Green,Thistle
+68,Lavender Blush,White,Maroon
+69,White,Rebecca Purple,Crimson
+70,Dark Slate Gray,Dark Slate Gray,White
+71,Tomato,Honeydew,Black
+72,Dark Slate Blue,Midnight Blue,Dim Gray
+73,Antique White,Saddle Brown,Dim Gray
+74,Light Blue,Dark Slate Gray,Slate Gray
+75,White,Light Steel Blue,Midnight Blue
+76,Slate Gray,White,Slate Gray
+77,Red,Web Maroon,Dark Green
+78,Alice Blue,Slate Gray,Tomato
+79,White Smoke,Dodger Blue,Black
+80,Light Blue,Light Pink,Light Slate Gray
+81,Black,Dark Khaki,White
+82,Dark Slate Gray,Light Steel Blue,Dodger Blue
+83,Black,Coral,White
+84,Black,White,Dim Gray
+85,Midnight Blue,Azure,Rosy Brown
+86,White,Midnight Blue,Light Slate Gray
+87,Dark Orange,White,Saddle Brown
+88,Slate Gray,White,Brown
+89,White Smoke,Maroon,Rosy Brown
+90,Sienna,White Smoke,Rosy Brown
+91,Midnight Blue,Lavender Blush,Dark Slate Blue
+92,Slate Gray,White,Plum
+93,White,Tomato,Light Slate Gray
+94,Lavender,Dim Gray,Tomato
+95,Black,Tomato,Slate Gray
+96,White,Teal,Dark Gray
+97,White,Dodger Blue,Web Gray
+98,White,Medium Slate Blue,Lavender
+99,Ghost White,Blue,Black
+100,Gainsboro,Web Gray,Black
+101,Black,Light Gray,Dim Gray
+102,Black,Gray,Indigo
+103,Black,Snow,Dim Gray
+104,Slate Gray,White,Thistle
+105,Black,Navy Blue,Dark Cyan
+106,Ghost White,Dark Slate Blue,Maroon
+107,Gainsboro,Black,Orange
+108,Black,Midnight Blue,Royal Blue
+109,Web Maroon,White Smoke,Sienna
+110,Lavender,Web Gray,Dodger Blue
+111,Alice Blue,Blue Violet,Black
+112,Black,White,Dark Gray
+113,White,Black,Dark Khaki
+114,Black,White,Web Gray
+115,Slate Gray,Ghost White,Dodger Blue
+116,White,Yellow Green,Medium Sea Green
+117,Alice Blue,Sandy Brown,Dodger Blue
+118,White,Black,Lavender
+119,Black,Dim Gray,Firebrick
+120,Misty Rose,Coral,Black
+121,White,Black,Dark Gray
+122,White,Dark Slate Blue,Dark Gray
+123,Pink,Dodger Blue,Black
+124,Black,Dim Gray,White Smoke
+125,Slate Gray,Gainsboro,Dark Sea Green
+126,Slate Gray,White,Lavender
+127,Web Maroon,White,Dim Gray
+128,Black,Dark Olive Green,Dark Salmon
+129,Alice Blue,Web Purple,Web Gray
+130,Black,White,Deep Sky Blue
+131,Black,White Smoke,Dark Khaki
+132,Gainsboro,Black,Dim Gray
+133,Black,Beige,Goldenrod
+134,Antique White,Coral,Sea Green
+135,Alice Blue,Black,Slate Gray
+136,Aqua,Light Cyan,Dark Cyan
+137,White Smoke,Midnight Blue,Slate Gray
+138,White,Midnight Blue,Maroon
+139,Slate Gray,Orange,Sky Blue
+140,Dim Gray,Light Gray,Pale Violet Red
+141,White Smoke,Dark Slate Blue,Lavender
+142,Midnight Blue,Dodger Blue,Cadet Blue
+143,Dark Slate Blue,Slate Gray,Ghost White
+144,Goldenrod,Midnight Blue,White
+145,White,Dim Gray,Black
+146,Light Blue,Midnight Blue,Steel Blue
+147,Gray,Black,Forest Green
+148,Black,Sky Blue,Slate Gray
+149,Lavender,Midnight Blue,Thistle
+150,Midnight Blue,Light Slate Gray,Dark Sea Green
+151,Lavender,Thistle,Pale Violet Red
+152,White,Midnight Blue,Light Slate Gray
+153,White Smoke,Slate Gray,Sandy Brown
+154,Black,Tomato,Dark Green
+155,Light Pink,Navy Blue,Midnight Blue
+156,Black,White,Light Slate Gray
+157,Dark Slate Blue,Slate Blue,White
+158,Black,Dim Gray,Light Gray
+159,Midnight Blue,Sienna,Orchid
+160,Slate Gray,Slate Gray,Alice Blue
+161,Dark Slate Blue,Sienna,Burlywood
+162,Alice Blue,Steel Blue,Steel Blue
+163,Slate Gray,Light Slate Gray,Alice Blue
+164,Pink,White,Light Slate Gray
+165,Dark Slate Blue,Thistle,Maroon
+166,Web Purple,Dark Red,Pale Violet Red
+167,Dark Slate Gray,Light Steel Blue,Slate Gray
+168,Light Steel Blue,Maroon,Slate Gray
+169,Gray,Black,Dim Gray
+170,Crimson,Dim Gray,White
+171,Slate Gray,Dim Gray,White
+172,Sandy Brown,White,Dark Red
+173,Mint Cream,Black,Dim Gray
+174,White,Dodger Blue,Web Purple
+175,Light Green,White,Pink
+176,Medium Slate Blue,White,Lavender
+177,Black,White,Orange
+178,Light Steel Blue,Dark Slate Gray,Slate Gray
+179,Black,Lavender Blush,Dim Gray
+180,Deep Sky Blue,Dark Slate Gray,Lavender
+181,Ghost White,Black,Light Slate Gray
+182,Ghost White,Teal,Sienna
+183,White,Dim Gray,Cadet Blue
+184,Gold,Orange Red,Dark Slate Blue
+185,Dark Slate Blue,White,Black
+186,Black,White Smoke,Dim Gray
+187,Tan,Goldenrod,Steel Blue
+188,White,Black,Web Gray
+189,Black,Rosy Brown,Web Maroon
+190,Dark Slate Blue,Slate Gray,White
+191,White,Slate Gray,Powder Blue
+192,White Smoke,Black,Red
+193,Slate Gray,White,Dark Gray
+194,Black,White,Red
+195,Maroon,White,Saddle Brown
+196,White,Dark Slate Gray,Dark Salmon
+197,Midnight Blue,Sienna,Dark Slate Blue
+198,Dim Gray,Wheat,Tan
+199,White,Dark Salmon,Aqua
+200,Antique White,Dark Slate Gray,Web Purple
+201,Old Lace,Black,Tan
+202,Black,Gray,Dark Khaki
+203,Alice Blue,Black,Dim Gray
+204,White,Medium Aquamarine,Dark Gray
+205,Black,Dark Sea Green,White
+206,White,Slate Gray,Cadet Blue
+207,Black,Slate Gray,White
+208,Thistle,Dark Slate Gray,Blue Violet
+209,White,Dodger Blue,Black
+210,White,Black,Web Gray
+211,Light Gray,Black,Dim Gray
+212,Alice Blue,Midnight Blue,Dark Slate Gray
+213,Floral White,Black,Dark Khaki
+214,Black,White,Navy Blue
+215,White,Sky Blue,Medium Aquamarine
+216,White,Black,Orange Red
+217,Black,Dim Gray,Pale Violet Red
+218,White Smoke,Goldenrod,Slate Gray
+219,Dark Slate Blue,Slate Gray,Cornflower Blue
+220,White,Light Salmon,Slate Gray
+221,Slate Gray,Light Steel Blue,Steel Blue
+222,Dim Gray,Black,White
+223,White,Blue Violet,Dim Gray
+224,White,Slate Blue,Black
+225,Black,White Smoke,Dark Gray
+226,White,Pale Violet Red,Slate Gray
+227,Dark Slate Blue,Midnight Blue,Dim Gray
+228,Midnight Blue,Dim Gray,Ghost White
+229,White Smoke,Midnight Blue,Slate Gray
+230,Alice Blue,Black,Light Slate Gray
+231,White Smoke,Black,Dark Khaki
+232,Thistle,Dark Slate Blue,Web Purple
+233,Teal,Sea Green,Brown
+234,Navy Blue,Teal,Mint Cream
+235,Black,White,Web Gray
+236,White Smoke,Dark Slate Blue,Medium Slate Blue
+237,White,Black,Web Purple
+238,Black,Mint Cream,Steel Blue
+239,Maroon,Black,Ivory
+240,Slate Gray,Light Coral,White
+241,Black,Crimson,White
+242,White,Black,Beige
+243,White,Dim Gray,Light Slate Gray
+244,Gold,Slate Gray,White
+245,White,Dim Gray,Web Gray
+246,White,Rebecca Purple,Sky Blue
+247,Light Slate Gray,White,Midnight Blue
+248,Black,Linen,Dim Gray
+249,White,Midnight Blue,Web Gray
+250,Dark Slate Blue,Steel Blue,Dim Gray
+251,Lavender,Midnight Blue,Dodger Blue
+252,Black,Maroon,Dim Gray
+253,White,Light Sky Blue,Rosy Brown
+254,Light Sky Blue,Mint Cream,Light Pink
+255,Black,White,Goldenrod
+256,White Smoke,Web Maroon,Slate Gray
+257,Alice Blue,Midnight Blue,Steel Blue
+258,Medium Orchid,White,Black
+259,White,Black,Dodger Blue
+260,Deep Pink,Black,White
+261,White,Black,Web Gray
+262,Black,Midnight Blue,White
+263,White,Black,Dark Gray
+264,Dim Gray,Black,White
+265,Olive,Web Maroon,Dark Slate Gray
+266,Black,Slate Gray,Mint Cream
+267,Azure,Forest Green,Midnight Blue
+268,Beige,Dim Gray,Maroon
+269,White,Black,Maroon
+270,Crimson,Gainsboro,Midnight Blue
+271,Web Gray,Black,Dark Khaki
+272,Light Steel Blue,White,Black
+273,Black,Olive,Goldenrod
+274,Black,Web Gray,White
+275,Black,Yellow Green,Ghost White
+276,White,Deep Sky Blue,Slate Gray
+277,Black,Web Maroon,Peru
+278,Tomato,White,Slate Gray
+279,Firebrick,Black,Light Slate Gray
+280,White,Rosy Brown,Midnight Blue
+281,Black,White,Dim Gray
+282,Midnight Blue,White,Dark Olive Green
+283,Black,Dark Red,Maroon
+284,Gainsboro,Black,Firebrick
+285,White,Black,Dark Blue
+286,White,Royal Blue,Black
+287,Misty Rose,Web Gray,Rebecca Purple
+288,Black,Rosy Brown,Dim Gray
+289,Dark Turquoise,Navy Blue,Lavender
+290,Black,Goldenrod,White
+291,Ghost White,Navy Blue,Navy Blue
+292,Dark Slate Blue,Gainsboro,Dim Gray
+293,Black,Burlywood,Light Slate Gray
+294,Navajo White,Black,White
+295,White,Black,Dim Gray
+296,White,Black,Firebrick
+297,White Smoke,Slate Gray,Midnight Blue
+298,Light Slate Gray,Dark Slate Blue,Light Steel Blue
+299,Ivory,Teal,Dark Turquoise
+300,Dark Slate Gray,Slate Gray,White
+301,Black,Dim Gray,Burlywood
+302,Dark Slate Blue,Light Slate Gray,Sienna
+303,White,Sandy Brown,Coral
+304,Azure,Dark Gray,Black
+305,Dark Slate Blue,White,Slate Gray
+306,Black,White,Tomato
+307,White,Dark Slate Gray,Lavender
+308,Brown,Dark Olive Green,Dim Gray
+309,White,Black,Goldenrod
+310,Floral White,Sandy Brown,Sienna
+311,Dark Slate Gray,Tan,White
+312,Lavender,Teal,Teal
+313,Rebecca Purple,Midnight Blue,Light Steel Blue
+314,Ghost White,Lavender,Medium Slate Blue
+315,White,Sky Blue,Black
+316,Dark Slate Blue,Lavender,Dark Slate Blue
+317,White,Cornflower Blue,Light Sky Blue
+318,White,Black,Light Steel Blue
+319,Lavender,Tan,Dim Gray
+320,Cornflower Blue,Black,White
+321,White Smoke,Gold,Black
+322,White,Black,Pale Violet Red
+323,Light Steel Blue,Light Cyan,Midnight Blue
+324,White,Dark Slate Blue,Rosy Brown
+325,Black,White,Web Gray
+326,Bisque,Black,Web Maroon
+327,Linen,Midnight Blue,Sandy Brown
+328,Slate Gray,White,Slate Gray
+329,White Smoke,Lavender Blush,Dim Gray
+330,Midnight Blue,Slate Gray,White
+331,Black,White Smoke,Dark Salmon
+332,Black,Dim Gray,Mint Cream
+333,Khaki,Slate Gray,Lavender
+334,Alice Blue,Deep Sky Blue,Olive Drab
+335,Web Maroon,Saddle Brown,Peru
+336,Black,Medium Turquoise,Gray
+337,Sky Blue,White Smoke,Slate Gray
+338,Midnight Blue,Steel Blue,Azure
+339,Tan,White Smoke,Dark Slate Gray
+340,Black,Maroon,Dim Gray
+341,Black,Dim Gray,Yellow
+342,White,Orange Red,Crimson
+343,Lavender Blush,Web Maroon,Dark Salmon
+344,Light Steel Blue,Royal Blue,Midnight Blue
+345,Ghost White,Slate Gray,Slate Gray
+346,Ghost White,Light Sky Blue,Dark Green
+347,Black,White Smoke,Red
+348,Floral White,Black,Dark Khaki
+349,Dark Slate Blue,Dim Gray,Lavender Blush
+350,Gainsboro,Midnight Blue,Dark Slate Blue
+351,Black,Brown,Web Gray
+352,Midnight Blue,Crimson,White
+353,Ghost White,Dark Slate Blue,Slate Gray
+354,Thistle,Pale Violet Red,Pale Violet Red
+355,Alice Blue,Dark Slate Gray,Light Slate Gray
+356,Alice Blue,Dark Slate Gray,Slate Gray
+357,Black,Peru,Beige
+358,Dim Gray,Powder Blue,Tan
+359,Midnight Blue,White,Black
+360,Crimson,Thistle,Old Lace
+361,Black,Mint Cream,Dim Gray
+362,Black,White Smoke,Dim Gray
+363,Dark Slate Blue,Lavender,Orchid
+364,Bisque,Tan,Dark Slate Gray
+365,Seashell,Dark Salmon,Dark Olive Green
+366,Midnight Blue,Light Cyan,Maroon
+367,Midnight Blue,Steel Blue,Pale Violet Red
+368,Black,Slate Gray,White
+369,Steel Blue,Midnight Blue,Seashell
+370,Black,Dark Slate Blue,Slate Gray
+371,White,Medium Purple,Lavender
+372,Dark Slate Gray,Slate Gray,White
+373,Ghost White,Midnight Blue,Web Gray
+374,Gainsboro,Dark Slate Gray,Web Gray
+375,Deep Sky Blue,Slate Gray,Alice Blue
+376,Slate Gray,Honeydew,Crimson
+377,Maroon,Web Gray,White
+378,Lavender,Dark Slate Blue,Slate Blue
+379,Thistle,Saddle Brown,Saddle Brown
+380,Slate Gray,Dark Orchid,Light Steel Blue
+381,Black,Tomato,White
+382,Dark Slate Blue,Light Steel Blue,White
+383,White,Tomato,Black
+384,Midnight Blue,Sienna,Lavender
+385,Dark Slate Gray,Mint Cream,Sienna
+386,Black,Dark Cyan,White
+387,Dark Slate Blue,White,Dark Gray
+388,Beige,Rebecca Purple,Peru
+389,White,Midnight Blue,Cornflower Blue
+390,Gold,White,Black
+391,Slate Gray,Honeydew,Tan
+392,White,Maroon,Indian Red
+393,White,Cornflower Blue,Black
+394,Steel Blue,Plum,Black
+395,Slate Gray,Sky Blue,Sandy Brown
+396,White,Slate Gray,Dark Sea Green
